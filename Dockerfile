@@ -15,3 +15,5 @@ RUN pip install /code
 COPY ./controller /code/controller
 
 CMD ["uvicorn", "controller.controller:app", "--host", "0.0.0.0", "--port", "80"]
+
+

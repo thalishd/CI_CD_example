@@ -1,0 +1,14 @@
+ex1.b)
+1)
+- clone le dépot dans l'environnement de l'action
+- set up python
+- install dependencies
+- lint with flake8
+- test with pytest
+
+2)
+name/run ou name/uses ou seulement uses
+Définir un nom, définir l'action
+Définir des paramètres pour l'action
+
+
