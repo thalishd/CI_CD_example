@@ -16,6 +16,15 @@ ex2.a)
 Security Reliability Maintainability Duplications
 
 Il servent à analyser le code
-
-
 Quality gate sert à donner une note en fonctions de certaines condition
+
+ex2.b)
+new code -> code modifié dans le push
+overall code -> tout le code (y.c non modifié)
+
+Je n'en vois pas spécialement, ce n'est pas mesurable
+
+Oui 1. à cause d'une image docker
+
+
+
